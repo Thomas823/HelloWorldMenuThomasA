@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\bin\Debug\HelloWorldMenuThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\bin\Debug\HelloWorldMenuThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\bin\Debug\HelloWorldMenuThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.frmHelloWorldMenu.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\HelloWorldMenuThomasA\HelloWorldMenuThomasA\obj\Debug\HelloWorldMenuThomasA.pdb
